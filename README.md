@@ -1,7 +1,9 @@
 <img src="image.png" alt="Mumira Banner" width="100%" />
 
-# 👋 Hey there, I'm Mumira 🐾
-
+<p> align="center" style="background-color:f0f0f0; padding:20px;">
+#👋 Hey there, I'm Mumira 🐾
+</p>
+w
 Welcome to my cozy corner of the web. I'm a **web developer** with a love for clean code, sleek designs, and a sprinkle of ✨ cat energy ✨ in everything I build.
 
 ---
