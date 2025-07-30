@@ -1,6 +1,5 @@
-<img src="image.png" alt="Mumira Banner" width="100%" />
+<img src="image.png" alt="Mumira Banner" width="70" />
 
-<p> align="center" style="background-color:f0f0f0; padding:20px;">
 #👋 Hey there, I'm Mumira 🐾
 </p>
 w
