@@ -1,4 +1,4 @@
-<img src="image.png" alt="Mumira Banner" width="70" />
+<img src="image.png" alt="Mumira Banner" width="100%" />
 
 #👋 Hey there, I'm Mumira 🐾
 </p>
